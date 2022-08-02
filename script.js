@@ -55,9 +55,7 @@ const d_text = document.getElementById('d_text');
 const submitBtn = document.getElementById('submit')
 
  
-/*  Check Stack OverFlow for the meaning of this rubbish
-        =============== Use let currentQuiz = 0; instead ================
- */
+
 
 let currentQuiz = 0;
 let score = 0;
